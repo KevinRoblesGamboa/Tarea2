@@ -1,0 +1,39 @@
+#piePagina {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3%;
+    width: 100%;
+    background-color:  white;
+    color: black;
+    text-align: center;
+}
+#barraLateral {
+    position: absolute;
+    top: 10%;
+    left: 0;
+    height: 90%;
+    width: 19%;
+    background-color: gray;
+    color: black;
+}
+#contenido {
+    position: absolute;
+    top: 10%;
+    left: 19%;
+    height: 83%;
+    width: 81%;
+    background-color:  steelblue;
+    color: black;
+    overflow: auto;
+}
+#contenidoGen {
+     position: absolute;
+    top: 10%;
+    left: 0%;
+    height: 90%;
+    width: 100%;
+    background-color:  steelblue;
+    color: black;
+    overflow: auto;
+}
